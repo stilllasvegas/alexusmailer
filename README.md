@@ -4,6 +4,8 @@ Create spoofed emails and send to any email worldwide.
 Customizable "sender name and sender email".
 Accepts both plain text and html body.
 Send unlimited mails.
+Instructions are easy:
+Place php anyway in your panel and run the file.
 
 Have fun.
 FOR THE PHP FILE, CHAT ME ON TELEGRAM: @stilllasvegas
